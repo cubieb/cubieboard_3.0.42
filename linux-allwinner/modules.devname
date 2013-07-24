@@ -1,0 +1,6 @@
+# Device nodes to trigger on-demand module loading.
+ppp_generic ppp c108:0
+dm_mod mapper/control c10:236
+snd_seq snd/seq c116:1
+uinput uinput c10:223
+tun net/tun c10:200

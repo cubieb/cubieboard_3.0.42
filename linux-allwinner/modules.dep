@@ -1,0 +1,765 @@
+drivers/usb/serial/aircable.ko: drivers/usb/serial/usbserial.ko
+net/sched/cls_rsvp6.ko:
+drivers/media/video/imx074.ko:
+net/netfilter/ipvs/ip_vs_dh.ko: net/netfilter/ipvs/ip_vs.ko net/netfilter/nf_conntrack.ko
+drivers/misc/ti-st/st_drv.ko:
+drivers/media/video/sun4i_csi/device/sp0838.ko:
+drivers/usb/misc/usbsevseg.ko:
+net/netfilter/ipvs/ip_vs.ko: net/netfilter/nf_conntrack.ko
+drivers/usb/misc/cypress_cy7c63.ko:
+net/sched/sch_multiq.ko:
+drivers/md/dm-multipath.ko: drivers/md/dm-mod.ko
+drivers/input/touchscreen/wm97xx-ts.ko: sound/ac97_bus.ko
+net/netfilter/xt_CONNSECMARK.ko: net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+drivers/usb/gadget/g_mass_storage.ko:
+drivers/input/keyboard/sun4i-keyboard.ko:
+net/sched/act_skbedit.ko:
+drivers/md/dm-queue-length.ko: drivers/md/dm-multipath.ko drivers/md/dm-mod.ko
+drivers/media/video/ov2640.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+drivers/md/raid0.ko: drivers/md/md-mod.ko
+net/sched/act_mirred.ko:
+drivers/net/usb/hso.ko:
+net/ipv6/netfilter/ip6t_hbh.ko: net/ipv6/netfilter/ip6_tables.ko net/netfilter/x_tables.ko
+sound/soc/sun4i/spdif/sun4i_sndspdif.ko:
+net/netfilter/xt_tcpmss.ko: net/netfilter/x_tables.ko
+net/netfilter/ipvs/ip_vs_lc.ko: net/netfilter/ipvs/ip_vs.ko net/netfilter/nf_conntrack.ko
+sound/soc/codecs/snd-soc-tlv320aic23.ko:
+drivers/bluetooth/btusb.ko:
+sound/soc/codecs/snd-soc-tlv320dac33.ko:
+net/netfilter/nf_conntrack_amanda.ko: net/netfilter/nf_conntrack.ko
+net/bridge/netfilter/ebt_limit.ko: net/netfilter/x_tables.ko
+drivers/input/touchscreen/penmount.ko:
+net/netfilter/ipset/ip_set_list_set.ko: net/netfilter/ipset/ip_set.ko net/netfilter/nfnetlink.ko
+drivers/net/ppp_deflate.ko: drivers/net/ppp_generic.ko drivers/net/slhc.ko
+drivers/usb/serial/ipaq.ko: drivers/usb/serial/usbserial.ko
+net/sched/sch_teql.ko:
+drivers/media/video/cx231xx/cx231xx-dvb.ko: drivers/media/video/cx231xx/cx231xx.ko drivers/media/video/videobuf-vmalloc.ko drivers/media/video/cx2341x.ko drivers/media/dvb/dvb-core/dvb-core.ko drivers/media/video/videobuf-core.ko
+net/bridge/netfilter/ebtables.ko: net/netfilter/x_tables.ko
+net/ipv4/netfilter/nf_nat_tftp.ko: net/netfilter/nf_conntrack_tftp.ko net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/nf_conntrack.ko
+net/sched/act_police.ko:
+drivers/media/dvb/frontends/tda10048.ko:
+drivers/bluetooth/btwilink.ko: drivers/misc/ti-st/st_drv.ko
+drivers/usb/serial/mct_u232.ko: drivers/usb/serial/usbserial.ko
+drivers/media/video/tlg2300/poseidon.ko: drivers/media/video/videobuf-vmalloc.ko drivers/media/dvb/dvb-core/dvb-core.ko drivers/media/video/videobuf-core.ko
+net/ipv4/netfilter/arpt_mangle.ko: net/netfilter/x_tables.ko
+sound/core/seq/oss/snd-seq-oss.ko: sound/core/seq/snd-seq-midi-event.ko sound/core/seq/snd-seq.ko sound/core/seq/snd-seq-device.ko
+sound/soc/codecs/snd-soc-wm8776.ko:
+net/netfilter/xt_mac.ko: net/netfilter/x_tables.ko
+net/netfilter/ipvs/ip_vs_wrr.ko: net/netfilter/ipvs/ip_vs.ko net/netfilter/nf_conntrack.ko
+net/sched/sch_dsmark.ko:
+drivers/media/video/videobuf-vmalloc.ko: drivers/media/video/videobuf-core.ko
+net/netfilter/nf_conntrack_pptp.ko: net/netfilter/nf_conntrack_proto_gre.ko net/netfilter/nf_conntrack.ko
+sound/core/seq/snd-seq-dummy.ko: sound/core/seq/snd-seq.ko sound/core/seq/snd-seq-device.ko
+net/sched/act_csum.ko:
+drivers/video/sunxi/lcd/lcd.ko: drivers/video/sunxi/disp/disp.ko drivers/video/cfbfillrect.ko drivers/video/cfbimgblt.ko drivers/video/cfbcopyarea.ko
+drivers/md/faulty.ko: drivers/md/md-mod.ko
+net/ipv4/netfilter/nf_nat_h323.ko: net/netfilter/nf_conntrack_h323.ko net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/nf_conntrack.ko
+drivers/media/video/tuner.ko:
+drivers/media/common/tuners/mxl5007t.ko:
+net/ipv4/netfilter/nf_nat_pptp.ko: net/ipv4/netfilter/nf_nat_proto_gre.ko net/netfilter/nf_conntrack_pptp.ko net/netfilter/nf_conntrack_proto_gre.ko net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/nf_conntrack.ko
+drivers/input/joystick/walkera0701.ko: drivers/parport/parport.ko
+net/ipv4/netfilter/arp_tables.ko: net/netfilter/x_tables.ko
+drivers/media/rc/imon.ko:
+drivers/media/video/sn9c102/sn9c102.ko:
+drivers/media/video/cs53l32a.ko:
+net/bridge/netfilter/ebt_snat.ko: net/netfilter/x_tables.ko
+sound/ac97_bus.ko:
+drivers/usb/misc/ldusb.ko:
+drivers/usb/serial/usb_wwan.ko: drivers/usb/serial/usbserial.ko
+net/netfilter/xt_conntrack.ko: net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+net/ipv4/netfilter/nf_nat_proto_gre.ko: net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/nf_conntrack.ko
+net/netfilter/ipset/ip_set_hash_netport.ko: net/netfilter/ipset/ip_set.ko net/netfilter/nfnetlink.ko
+drivers/usb/image/mdc800.ko:
+net/ipv6/sit.ko:
+drivers/usb/misc/yurex.ko:
+drivers/usb/serial/usbserial.ko:
+drivers/usb/serial/ch341.ko: drivers/usb/serial/usbserial.ko
+drivers/media/video/sun4i_csi/csi0/sun4i_csi0.ko: drivers/media/video/videobuf-dma-contig.ko drivers/media/video/videobuf-core.ko
+net/netfilter/xt_TEE.ko: net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+sound/soc/codecs/snd-soc-wm8523.ko:
+net/netfilter/ipvs/ip_vs_nq.ko: net/netfilter/ipvs/ip_vs.ko net/netfilter/nf_conntrack.ko
+net/ipv6/netfilter/ip6_queue.ko:
+drivers/net/slhc.ko:
+drivers/usb/misc/uss720.ko: drivers/parport/parport.ko
+drivers/net/pppoe.ko: drivers/net/pppox.ko drivers/net/ppp_generic.ko drivers/net/slhc.ko
+net/sched/sch_cbq.ko:
+drivers/video/cfbcopyarea.ko:
+net/netfilter/nfnetlink.ko:
+net/ipv6/xfrm6_mode_beet.ko:
+net/sched/cls_route.ko:
+drivers/media/video/cx2341x.ko:
+net/ipv4/netfilter/nf_defrag_ipv4.ko:
+drivers/staging/ath6kl/ath6kl.ko:
+net/netfilter/nf_conntrack_proto_udplite.ko: net/netfilter/nf_conntrack.ko
+net/ipv4/netfilter/iptable_mangle.ko: net/ipv4/netfilter/ip_tables.ko net/netfilter/x_tables.ko
+drivers/mmc/card/sdio_uart.ko:
+drivers/usb/gadget/g_cdc.ko:
+net/netfilter/ipset/ip_set_bitmap_ip.ko: net/netfilter/ipset/ip_set.ko net/netfilter/nfnetlink.ko
+net/ipv6/netfilter/ip6table_mangle.ko: net/ipv6/netfilter/ip6_tables.ko net/netfilter/x_tables.ko
+drivers/usb/serial/keyspan.ko: drivers/usb/serial/usbserial.ko
+drivers/media/radio/tef6862.ko:
+drivers/gpu/mali/mali/mali.ko: drivers/gpu/mali/ump/ump.ko
+drivers/media/radio/saa7706h.ko:
+drivers/video/sunxi/disp/disp_ump.ko: drivers/gpu/mali/ump/ump.ko drivers/video/sunxi/disp/disp.ko drivers/video/cfbfillrect.ko drivers/video/cfbimgblt.ko drivers/video/cfbcopyarea.ko
+drivers/input/touchscreen/max11801_ts.ko:
+drivers/input/touchscreen/wacom_w8001.ko:
+drivers/usb/serial/ftdi_sio.ko: drivers/usb/serial/usbserial.ko
+net/netfilter/nf_conntrack_netlink.ko: net/netfilter/nfnetlink.ko net/netfilter/nf_conntrack.ko
+drivers/media/dvb/frontends/s5h1411.ko:
+drivers/input/touchscreen/gt818_ts.ko:
+drivers/net/usb/cdc_ncm.ko: drivers/net/usb/usbnet.ko
+net/netfilter/ipset/ip_set_bitmap_ipmac.ko: net/netfilter/ipset/ip_set.ko net/netfilter/nfnetlink.ko
+drivers/parport/parport_ax88796.ko: drivers/parport/parport.ko
+drivers/net/ppp_generic.ko: drivers/net/slhc.ko
+sound/soc/codecs/snd-soc-uda1380.ko:
+drivers/net/irda/actisys-sir.ko: drivers/net/irda/sir-dev.ko net/irda/irda.ko lib/crc-ccitt.ko
+drivers/media/rc/mceusb.ko:
+sound/soc/codecs/snd-soc-wm8580.ko:
+net/netfilter/xt_state.ko: net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+drivers/staging/keucr/keucr.ko:
+sound/soc/codecs/snd-soc-ak4671.ko:
+lib/ts_bm.ko:
+net/wimax/wimax.ko:
+net/caif/caif_socket.ko: net/caif/caif.ko lib/crc-ccitt.ko
+net/ipv4/netfilter/nf_nat_proto_udplite.ko: net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/nf_conntrack.ko
+drivers/net/irda/tekram-sir.ko: drivers/net/irda/sir-dev.ko net/irda/irda.ko lib/crc-ccitt.ko
+net/ipv4/netfilter/ip_tables.ko: net/netfilter/x_tables.ko
+net/ipv6/netfilter/nf_defrag_ipv6.ko:
+fs/hpfs/hpfs.ko:
+net/netfilter/ipvs/ip_vs_lblc.ko: net/netfilter/ipvs/ip_vs.ko net/netfilter/nf_conntrack.ko
+sound/drivers/snd-dummy.ko:
+sound/soc/codecs/snd-soc-wm8985.ko:
+drivers/media/video/uvc/uvcvideo.ko:
+drivers/input/touchscreen/fujitsu_ts.ko:
+drivers/usb/misc/legousbtower.ko:
+sound/soc/codecs/snd-soc-wm8960.ko:
+drivers/media/video/au0828/au0828.ko: drivers/media/video/tveeprom.ko drivers/media/video/videobuf-vmalloc.ko drivers/media/dvb/dvb-core/dvb-core.ko drivers/media/video/videobuf-core.ko
+net/ipv4/tcp_westwood.ko:
+drivers/input/touchscreen/usbtouchscreen.ko:
+drivers/media/dvb/frontends/drxd.ko:
+net/ipv4/tcp_bic.ko:
+sound/soc/codecs/snd-soc-ak4641.ko:
+drivers/media/video/sun4i_csi/device/gc0308.ko:
+drivers/media/video/sun4i_csi/device/gt2005.ko:
+net/sched/sch_qfq.ko:
+drivers/staging/lirc/lirc_imon.ko:
+net/sched/sch_hfsc.ko:
+drivers/input/touchscreen/touchit213.ko:
+net/ipv4/inet_diag.ko:
+drivers/usb/serial/usb_debug.ko: drivers/usb/serial/usbserial.ko
+net/bridge/netfilter/ebt_stp.ko: net/netfilter/x_tables.ko
+net/phonet/pn_pep.ko: net/phonet/phonet.ko
+sound/soc/codecs/snd-soc-wm8940.ko:
+net/netfilter/xt_tcpudp.ko: net/netfilter/x_tables.ko
+drivers/media/video/videobuf2-memops.ko:
+drivers/usb/serial/navman.ko: drivers/usb/serial/usbserial.ko
+sound/soc/codecs/snd-soc-wm8962.ko:
+net/netfilter/xt_quota.ko: net/netfilter/x_tables.ko
+sound/arm/snd-aaci.ko: sound/pci/ac97/snd-ac97-codec.ko sound/ac97_bus.ko
+drivers/media/common/tuners/tda827x.ko:
+net/sched/sch_netem.ko:
+drivers/usb/serial/vivopay-serial.ko: drivers/usb/serial/usbserial.ko
+net/sched/cls_fw.ko:
+drivers/media/video/sun4i_csi/csi1/sun4i_csi1.ko: drivers/media/video/videobuf-dma-contig.ko drivers/media/video/videobuf-core.ko
+sound/soc/sun4i/i2s/sun4i-i2s.ko:
+net/netfilter/xt_realm.ko: net/netfilter/x_tables.ko
+fs/coda/coda.ko:
+sound/usb/6fire/snd-usb-6fire.ko:
+drivers/usb/serial/ir-usb.ko: drivers/usb/serial/usbserial.ko
+drivers/net/usb/kaweth.ko:
+net/ipv6/netfilter/ip6t_REJECT.ko: net/netfilter/x_tables.ko
+sound/soc/codecs/snd-soc-wm9090.ko:
+drivers/media/video/videobuf-core.ko:
+drivers/net/usb/cdc_subset.ko: drivers/net/usb/usbnet.ko
+drivers/staging/lirc/lirc_zilog.ko:
+drivers/misc/sunxi-dbgreg.ko:
+net/bluetooth/hidp/hidp.ko:
+drivers/media/dvb/frontends/mb86a20s.ko:
+net/netfilter/nf_conntrack_irc.ko: net/netfilter/nf_conntrack.ko
+net/netfilter/nf_conntrack_snmp.ko: net/netfilter/nf_conntrack_broadcast.ko net/netfilter/nf_conntrack.ko
+net/irda/irlan/irlan.ko: net/irda/irda.ko lib/crc-ccitt.ko
+drivers/md/dm-snapshot.ko: drivers/md/dm-mod.ko
+drivers/usb/misc/emi62.ko:
+net/l2tp/l2tp_netlink.ko: net/l2tp/l2tp_core.ko
+drivers/media/radio/radio-si4713.ko:
+sound/drivers/mpu401/snd-mpu401-uart.ko:
+net/sched/sch_sfb.ko:
+sound/soc/codecs/snd-soc-tlv320aic32x4.ko:
+fs/cifs/cifs.ko:
+drivers/input/touchscreen/mcs5000_ts.ko:
+drivers/staging/serqt_usb2/serqt_usb2.ko: drivers/usb/serial/usbserial.ko
+net/l2tp/l2tp_core.ko:
+drivers/md/raid456.ko: crypto/async_tx/async_raid6_recov.ko crypto/async_tx/async_memcpy.ko crypto/async_tx/async_pq.ko lib/raid6/raid6_pq.ko crypto/async_tx/async_xor.ko crypto/xor.ko crypto/async_tx/async_tx.ko drivers/md/md-mod.ko
+net/sched/sch_choke.ko:
+drivers/media/video/sun4i_csi/device/mt9d112.ko:
+net/ipv4/netfilter/nf_nat_ftp.ko: net/netfilter/nf_conntrack_ftp.ko net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/nf_conntrack.ko
+sound/drivers/mpu401/snd-mpu401.ko: sound/drivers/mpu401/snd-mpu401-uart.ko
+net/netfilter/xt_DSCP.ko: net/netfilter/x_tables.ko
+sound/soc/codecs/snd-soc-max98095.ko:
+drivers/usb/misc/usbled.ko:
+drivers/media/dvb/frontends/cxd2820r.ko: drivers/media/dvb/dvb-core/dvb-core.ko
+sound/soc/codecs/snd-soc-wm8974.ko:
+net/sched/sch_ingress.ko:
+sound/soc/codecs/snd-soc-cs4270.ko:
+crypto/async_tx/async_memcpy.ko: crypto/async_tx/async_tx.ko
+drivers/net/wireless/rtl8192cu/8192cu.ko:
+net/netfilter/nf_conntrack_broadcast.ko: net/netfilter/nf_conntrack.ko
+drivers/media/video/vivi.ko: drivers/media/video/videobuf2-vmalloc.ko drivers/media/video/videobuf2-memops.ko drivers/media/video/videobuf2-core.ko
+net/sched/em_cmp.ko:
+drivers/net/irda/litelink-sir.ko: drivers/net/irda/sir-dev.ko net/irda/irda.ko lib/crc-ccitt.ko
+drivers/usb/serial/mos7840.ko: drivers/usb/serial/usbserial.ko
+net/netfilter/xt_mark.ko: net/netfilter/x_tables.ko
+net/bridge/netfilter/ebt_ulog.ko: net/netfilter/x_tables.ko
+drivers/bluetooth/bfusb.ko:
+net/ipv4/netfilter/nf_nat.ko: net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/nf_conntrack.ko
+sound/soc/codecs/snd-soc-wm8753.ko:
+drivers/media/dvb/frontends/zl10353.ko:
+drivers/misc/sun4i-gpio.ko:
+drivers/input/joystick/grip.ko: drivers/input/gameport/gameport.ko
+net/ipv4/netfilter/nf_conntrack_ipv4.ko: net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/nf_conntrack.ko
+drivers/usb/serial/option.ko: drivers/usb/serial/usb_wwan.ko drivers/usb/serial/usbserial.ko
+drivers/input/misc/ati_remote.ko:
+drivers/net/irda/toim3232-sir.ko: drivers/net/irda/sir-dev.ko net/irda/irda.ko lib/crc-ccitt.ko
+drivers/media/common/tuners/mxl5005s.ko:
+drivers/media/video/soc_camera_platform.ko:
+drivers/usb/serial/ipw.ko: drivers/usb/serial/usbserial.ko
+drivers/usb/serial/kobil_sct.ko: drivers/usb/serial/usbserial.ko
+drivers/input/joystick/as5011.ko:
+net/netfilter/xt_pkttype.ko: net/netfilter/x_tables.ko
+drivers/md/dm-mod.ko:
+drivers/media/video/et61x251/et61x251.ko:
+drivers/media/video/mt9m001.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+drivers/usb/serial/qcaux.ko: drivers/usb/serial/usbserial.ko
+net/sched/sch_mqprio.ko:
+sound/soc/codecs/snd-soc-wm1250-ev1.ko:
+lib/ts_fsm.ko:
+net/netfilter/xt_connmark.ko: net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+drivers/input/touchscreen/eeti_ts.ko:
+net/irda/ircomm/ircomm-tty.ko: net/irda/ircomm/ircomm.ko net/irda/irda.ko lib/crc-ccitt.ko
+drivers/media/dvb/frontends/tda10023.ko:
+drivers/staging/lirc/lirc_serial.ko:
+drivers/net/ppp_synctty.ko: drivers/net/ppp_generic.ko drivers/net/slhc.ko
+drivers/video/sunxi/disp/disp.ko: drivers/video/cfbfillrect.ko drivers/video/cfbimgblt.ko drivers/video/cfbcopyarea.ko
+net/bridge/netfilter/ebtable_nat.ko: net/bridge/netfilter/ebtables.ko net/netfilter/x_tables.ko
+net/ipv4/netfilter/ipt_LOG.ko: net/netfilter/x_tables.ko
+net/phonet/phonet.ko:
+sound/soc/codecs/snd-soc-ak4642.ko:
+net/bridge/bridge.ko:
+sound/drivers/snd-virmidi.ko: sound/core/seq/snd-seq-virmidi.ko sound/core/seq/snd-seq-midi-event.ko sound/core/seq/snd-seq.ko sound/core/seq/snd-seq-device.ko
+drivers/usb/image/microtek.ko:
+net/ipv4/netfilter/ip_queue.ko:
+lib/ts_kmp.ko:
+net/netfilter/xt_quota2.ko: net/netfilter/x_tables.ko
+drivers/usb/serial/keyspan_pda.ko: drivers/usb/serial/usbserial.ko
+drivers/usb/misc/cytherm.ko:
+sound/soc/codecs/snd-soc-wm8728.ko:
+drivers/net/usb/net1080.ko: drivers/net/usb/usbnet.ko
+drivers/md/dm-crypt.ko: drivers/md/dm-mod.ko
+drivers/net/irda/sir-dev.ko: net/irda/irda.ko lib/crc-ccitt.ko
+net/ipv6/netfilter/ip6t_frag.ko: net/ipv6/netfilter/ip6_tables.ko net/netfilter/x_tables.ko
+drivers/input/touchscreen/dynapro.ko:
+drivers/media/video/bw-qcam.ko: drivers/parport/parport.ko
+drivers/input/joydev.ko:
+net/netfilter/xt_statistic.ko: net/netfilter/x_tables.ko
+drivers/media/radio/radio-mr800.ko:
+drivers/media/dvb/frontends/s921.ko:
+drivers/staging/ste_rmi4/synaptics_i2c_rmi4.ko:
+net/netfilter/nf_conntrack_sip.ko: net/netfilter/nf_conntrack.ko
+net/netfilter/xt_owner.ko: net/netfilter/x_tables.ko
+net/bridge/netfilter/ebt_mark_m.ko: net/netfilter/x_tables.ko
+sound/soc/codecs/snd-soc-wm8741.ko:
+drivers/md/dm-log.ko: drivers/md/dm-mod.ko
+sound/drivers/snd-mtpav.ko:
+sound/soc/codecs/snd-soc-wm8995.ko:
+drivers/usb/serial/ti_usb_3410_5052.ko: drivers/usb/serial/usbserial.ko
+drivers/usb/class/cdc-wdm.ko:
+sound/soc/codecs/snd-soc-da7210.ko:
+drivers/input/touchscreen/elo.ko:
+drivers/input/joystick/stinger.ko:
+net/l2tp/l2tp_eth.ko: net/l2tp/l2tp_netlink.ko net/l2tp/l2tp_core.ko
+net/sched/em_text.ko:
+net/sched/sch_prio.ko:
+sound/soc/codecs/snd-soc-wm9081.ko:
+drivers/media/video/ov9640.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+net/netfilter/xt_CLASSIFY.ko: net/netfilter/x_tables.ko
+drivers/net/usb/asix.ko: drivers/net/usb/usbnet.ko
+drivers/media/common/tuners/tda8290.ko:
+net/bridge/netfilter/ebtable_filter.ko: net/bridge/netfilter/ebtables.ko net/netfilter/x_tables.ko
+net/ipv4/tcp_diag.ko: net/ipv4/inet_diag.ko
+drivers/media/common/tuners/qt1010.ko:
+drivers/video/sunxi/hdmi/hdmi.ko: drivers/video/sunxi/disp/disp.ko drivers/video/cfbfillrect.ko drivers/video/cfbimgblt.ko drivers/video/cfbcopyarea.ko
+drivers/input/joystick/magellan.ko:
+drivers/media/common/tuners/mc44s803.ko:
+drivers/usb/serial/safe_serial.ko: drivers/usb/serial/usbserial.ko
+fs/exportfs/exportfs.ko:
+crypto/async_tx/async_xor.ko: crypto/xor.ko crypto/async_tx/async_tx.ko
+net/bridge/netfilter/ebt_log.ko: net/netfilter/x_tables.ko
+net/ipv6/netfilter/ip6t_eui64.ko: net/netfilter/x_tables.ko
+fs/jfs/jfs.ko:
+net/netfilter/xt_physdev.ko: net/netfilter/x_tables.ko
+net/sched/cls_flow.ko:
+net/bridge/netfilter/ebt_vlan.ko: net/netfilter/x_tables.ko
+drivers/media/video/em28xx/em28xx.ko: drivers/media/video/tveeprom.ko drivers/media/video/videobuf-vmalloc.ko drivers/media/video/videobuf-core.ko
+net/netfilter/xt_multiport.ko: net/netfilter/x_tables.ko
+net/bridge/netfilter/ebt_pkttype.ko: net/netfilter/x_tables.ko
+drivers/usb/serial/pl2303.ko: drivers/usb/serial/usbserial.ko
+drivers/input/touchscreen/touchright.ko:
+drivers/usb/misc/ftdi-elan.ko:
+crypto/async_tx/async_tx.ko:
+drivers/usb/misc/idmouse.ko:
+drivers/uio/uio.ko:
+net/netfilter/xt_policy.ko: net/netfilter/x_tables.ko
+drivers/media/common/tuners/tuner-simple.ko: drivers/media/common/tuners/tuner-types.ko
+sound/soc/codecs/snd-soc-max98088.ko:
+drivers/usb/serial/iuu_phoenix.ko: drivers/usb/serial/usbserial.ko
+net/sched/em_u32.ko:
+sound/soc/sun4i/i2s/sndi2s.ko:
+drivers/net/ppp_mppe.ko: drivers/net/ppp_generic.ko drivers/net/slhc.ko
+sound/drivers/snd-portman2x4.ko: drivers/parport/parport.ko
+drivers/media/video/ov6650.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+drivers/usb/serial/ssu100.ko: drivers/usb/serial/usbserial.ko
+net/ipv4/netfilter/iptable_nat.ko: net/ipv4/netfilter/ip_tables.ko net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+drivers/media/video/tveeprom.ko:
+net/ipv6/netfilter/ip6t_ah.ko: net/ipv6/netfilter/ip6_tables.ko net/netfilter/x_tables.ko
+drivers/input/joystick/adi.ko: drivers/input/gameport/gameport.ko
+drivers/md/dm-round-robin.ko: drivers/md/dm-multipath.ko drivers/md/dm-mod.ko
+drivers/mfd/wl1273-core.ko: drivers/mfd/mfd-core.ko
+net/netfilter/xt_AUDIT.ko: net/netfilter/x_tables.ko
+net/netfilter/xt_set.ko: net/netfilter/ipset/ip_set.ko net/netfilter/nfnetlink.ko net/netfilter/x_tables.ko
+drivers/net/wireless/bcm4330/bcm4330.ko:
+net/ipv6/netfilter/ip6table_filter.ko: net/ipv6/netfilter/ip6_tables.ko net/netfilter/x_tables.ko
+sound/soc/codecs/snd-soc-cx20442.ko:
+fs/xfs/xfs.ko: fs/exportfs/exportfs.ko
+drivers/media/video/cx25840/cx25840.ko:
+drivers/md/dm-region-hash.ko: drivers/md/dm-log.ko drivers/md/dm-mod.ko
+drivers/cpufreq/cpufreq_stats.ko:
+net/netfilter/ipset/ip_set_bitmap_port.ko: net/netfilter/ipset/ip_set.ko net/netfilter/nfnetlink.ko
+net/netfilter/nf_conntrack_tftp.ko: net/netfilter/nf_conntrack.ko
+drivers/usb/serial/omninet.ko: drivers/usb/serial/usbserial.ko
+drivers/media/video/pvrusb2/pvrusb2.ko: drivers/media/video/tveeprom.ko drivers/media/video/cx2341x.ko drivers/media/dvb/dvb-core/dvb-core.ko
+net/bridge/netfilter/ebt_nflog.ko: net/netfilter/x_tables.ko
+drivers/input/keyboard/hv2605.ko:
+drivers/input/joystick/gamecon.ko: drivers/parport/parport.ko
+drivers/input/touchscreen/touchwin.ko:
+drivers/usb/misc/adutux.ko:
+drivers/input/keyboard/sun4i-ir.ko:
+net/netfilter/ipset/ip_set_hash_ipportnet.ko: net/netfilter/ipset/ip_set.ko net/netfilter/nfnetlink.ko
+net/ipv4/netfilter/ipt_ecn.ko: net/netfilter/x_tables.ko
+drivers/media/common/tuners/max2165.ko:
+net/ipv4/netfilter/nf_nat_amanda.ko: net/netfilter/nf_conntrack_amanda.ko net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/nf_conntrack.ko
+lib/raid6/raid6_pq.ko:
+drivers/media/common/tuners/tuner-types.ko:
+drivers/md/dm-service-time.ko: drivers/md/dm-multipath.ko drivers/md/dm-mod.ko
+drivers/input/joystick/a3d.ko: drivers/input/gameport/gameport.ko
+drivers/usb/gadget/g_webcam.ko:
+drivers/net/irda/irda-usb.ko: net/irda/irda.ko lib/crc-ccitt.ko
+drivers/usb/serial/belkin_sa.ko: drivers/usb/serial/usbserial.ko
+net/netfilter/ipvs/ip_vs_sh.ko: net/netfilter/ipvs/ip_vs.ko net/netfilter/nf_conntrack.ko
+sound/soc/codecs/snd-soc-wm8978.ko:
+sound/core/seq/snd-seq-device.ko:
+sound/soc/codecs/snd-soc-wm8731.ko:
+net/netfilter/xt_dccp.ko: net/netfilter/x_tables.ko
+drivers/usb/misc/iowarrior.ko:
+drivers/input/joystick/spaceorb.ko:
+net/netfilter/nf_conntrack_ftp.ko: net/netfilter/nf_conntrack.ko
+drivers/input/touchscreen/hampshire.ko:
+net/sched/cls_cgroup.ko:
+drivers/input/touchscreen/sun4i-ts.ko:
+net/bridge/netfilter/ebtable_broute.ko: net/bridge/bridge.ko net/bridge/netfilter/ebtables.ko net/netfilter/x_tables.ko
+drivers/input/joystick/spaceball.ko:
+net/netfilter/xt_length.ko: net/netfilter/x_tables.ko
+net/netfilter/ipvs/ip_vs_pe_sip.ko: net/netfilter/nf_conntrack_sip.ko net/netfilter/ipvs/ip_vs.ko net/netfilter/nf_conntrack.ko
+drivers/input/joystick/joydump.ko: drivers/input/gameport/gameport.ko
+drivers/media/video/sun4i_csi/device/ov2655.ko:
+drivers/input/touchscreen/tps6507x-ts.ko:
+net/sched/act_gact.ko:
+drivers/media/video/tw9910.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+net/netfilter/xt_cpu.ko: net/netfilter/x_tables.ko
+drivers/bluetooth/bpa10x.ko:
+drivers/input/touchscreen/ft5x_ts.ko:
+drivers/input/touchscreen/ad7879-i2c.ko: drivers/input/touchscreen/ad7879.ko
+net/sched/sch_htb.ko:
+sound/soc/codecs/snd-soc-max9877.ko:
+drivers/input/misc/gpio_input.ko:
+drivers/media/video/msp3400.ko:
+net/ipv6/ah6.ko:
+drivers/usb/serial/hp4x.ko: drivers/usb/serial/usbserial.ko
+drivers/media/dvb/frontends/lgdt330x.ko: drivers/media/dvb/dvb-core/dvb-core.ko
+net/netfilter/nf_conntrack_proto_gre.ko: net/netfilter/nf_conntrack.ko
+fs/qnx4/qnx4.ko:
+drivers/md/raid1.ko: drivers/md/md-mod.ko
+sound/soc/codecs/snd-soc-tlv320aic3x.ko:
+drivers/media/common/tuners/tuner-xc2028.ko:
+net/netfilter/x_tables.ko:
+net/sched/cls_rsvp.ko:
+sound/soc/codecs/snd-soc-wm8991.ko:
+drivers/input/touchscreen/tsc2007.ko:
+net/ipv6/xfrm6_mode_transport.ko:
+net/ipv6/netfilter/ip6t_LOG.ko: net/ipv6/netfilter/ip6_tables.ko net/netfilter/x_tables.ko
+net/ipv6/xfrm6_mode_tunnel.ko:
+drivers/media/video/sun4i_csi/device/ov5640.ko:
+drivers/input/misc/gpio_event.ko:
+drivers/media/common/tuners/mt20xx.ko:
+drivers/gpu/mali/ump/ump.ko:
+drivers/input/joystick/db9.ko: drivers/parport/parport.ko
+drivers/usb/misc/emi26.ko:
+drivers/md/linear.ko: drivers/md/md-mod.ko
+drivers/net/slip.ko: drivers/net/slhc.ko
+net/netfilter/xt_ipvs.ko: net/netfilter/x_tables.ko net/netfilter/ipvs/ip_vs.ko net/netfilter/nf_conntrack.ko
+drivers/input/misc/ati_remote2.ko:
+drivers/input/gameport/gameport.ko:
+net/netfilter/nfnetlink_queue.ko: net/netfilter/nfnetlink.ko
+sound/soc/codecs/snd-soc-wm8750.ko:
+drivers/md/raid10.ko: drivers/md/md-mod.ko
+sound/soc/codecs/snd-soc-ads117x.ko:
+net/ipv4/netfilter/nf_nat_sip.ko: net/netfilter/nf_conntrack_sip.ko net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/nf_conntrack.ko
+net/netfilter/ipvs/ip_vs_rr.ko: net/netfilter/ipvs/ip_vs.ko net/netfilter/nf_conntrack.ko
+drivers/gpu/drm/mali/mali_drm.ko:
+net/ipv4/netfilter/nf_nat_irc.ko: net/netfilter/nf_conntrack_irc.ko net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/nf_conntrack.ko
+drivers/media/video/saa7115.ko:
+sound/soc/codecs/snd-soc-tpa6130a2.ko:
+sound/drivers/snd-aloop.ko:
+drivers/bluetooth/hci_vhci.ko:
+drivers/usb/misc/trancevibrator.ko:
+net/ipv4/netfilter/ipt_NETMAP.ko: net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+net/irda/ircomm/ircomm.ko: net/irda/irda.ko lib/crc-ccitt.ko
+net/netfilter/xt_dscp.ko: net/netfilter/x_tables.ko
+drivers/bluetooth/btmrvl.ko:
+drivers/media/video/videobuf2-dma-contig.ko: drivers/media/video/videobuf2-memops.ko
+net/netfilter/xt_TRACE.ko: net/netfilter/x_tables.ko
+net/ipv4/netfilter/nf_nat_snmp_basic.ko: net/netfilter/nf_conntrack_snmp.ko net/netfilter/nf_conntrack_broadcast.ko net/netfilter/nf_conntrack.ko
+sound/core/seq/snd-seq.ko: sound/core/seq/snd-seq-device.ko
+sound/soc/codecs/snd-soc-wm8990.ko:
+drivers/net/pppopns.ko: drivers/net/pppox.ko drivers/net/ppp_generic.ko drivers/net/slhc.ko
+drivers/media/video/pwc/pwc.ko:
+net/sched/sch_gred.ko:
+net/sched/sch_sfq.ko:
+sound/soc/codecs/snd-soc-uda134x.ko: sound/soc/codecs/snd-soc-l3.ko
+net/sched/act_pedit.ko:
+drivers/net/usb/cdc_ether.ko: drivers/net/usb/usbnet.ko
+drivers/staging/rtl8712/r8712u.ko:
+net/netfilter/xt_connlimit.ko: net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+net/ipv4/netfilter/ipt_MASQUERADE.ko: net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+drivers/staging/lirc/lirc_parallel.ko: drivers/parport/parport.ko
+net/netfilter/nf_conntrack_netbios_ns.ko: net/netfilter/nf_conntrack_broadcast.ko net/netfilter/nf_conntrack.ko
+sound/usb/snd-usb-audio.ko: sound/usb/snd-usbmidi-lib.ko sound/core/snd-hwdep.ko
+drivers/net/usb/usbnet.ko:
+fs/omfs/omfs.ko:
+sound/core/seq/snd-seq-midi-event.ko: sound/core/seq/snd-seq.ko sound/core/seq/snd-seq-device.ko
+drivers/media/radio/si4713-i2c.ko:
+drivers/usb/misc/sisusbvga/sisusbvga.ko:
+net/sunrpc/sunrpc.ko:
+drivers/bluetooth/btmrvl_sdio.ko: drivers/bluetooth/btmrvl.ko
+net/netfilter/xt_hashlimit.ko: net/netfilter/x_tables.ko
+drivers/usb/gadget/g_serial.ko:
+drivers/ata/sw_ahci_platform.ko:
+drivers/input/joystick/gf2k.ko: drivers/input/gameport/gameport.ko
+net/irda/irda.ko: lib/crc-ccitt.ko
+drivers/net/irda/esi-sir.ko: drivers/net/irda/sir-dev.ko net/irda/irda.ko lib/crc-ccitt.ko
+sound/drivers/snd-mts64.ko: drivers/parport/parport.ko
+net/netfilter/xt_hl.ko: net/netfilter/x_tables.ko
+net/ipv4/netfilter/iptable_filter.ko: net/ipv4/netfilter/ip_tables.ko net/netfilter/x_tables.ko
+drivers/media/common/tuners/tda18218.ko:
+net/bridge/netfilter/ebt_among.ko: net/netfilter/x_tables.ko
+drivers/input/joystick/iforce/iforce.ko:
+net/netfilter/xt_u32.ko: net/netfilter/x_tables.ko
+drivers/usb/serial/moto_modem.ko: drivers/usb/serial/usbserial.ko
+sound/soc/codecs/snd-soc-wm8737.ko:
+sound/soc/codecs/snd-soc-wm8988.ko:
+drivers/input/misc/uinput.ko:
+net/bridge/netfilter/ebt_ip6.ko: net/netfilter/x_tables.ko
+drivers/media/video/sun4i_csi/device/gc0307.ko:
+drivers/media/video/mt9v022.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+drivers/usb/serial/sierra.ko: drivers/usb/serial/usbserial.ko
+net/ipv6/netfilter/ip6t_ipv6header.ko: net/ipv6/netfilter/ip6_tables.ko net/netfilter/x_tables.ko
+drivers/input/joystick/zhenhua.ko:
+net/netfilter/ipset/ip_set_hash_ipport.ko: net/netfilter/ipset/ip_set.ko net/netfilter/nfnetlink.ko
+drivers/input/touchscreen/atmel_mxt_ts.ko:
+drivers/usb/serial/mos7720.ko: drivers/usb/serial/usbserial.ko
+drivers/input/joystick/sidewinder.ko: drivers/input/gameport/gameport.ko
+sound/soc/sun4i/spdif/sun4i_spdma.ko:
+drivers/uio/uio_pdrv_genirq.ko: drivers/uio/uio.ko
+drivers/net/ppp_async.ko: lib/crc-ccitt.ko drivers/net/ppp_generic.ko drivers/net/slhc.ko
+drivers/usb/mon/usbmon.ko:
+drivers/media/common/tuners/xc5000.ko:
+drivers/usb/serial/cyberjack.ko: drivers/usb/serial/usbserial.ko
+drivers/input/misc/gpio_axis.ko:
+drivers/net/usb/pegasus.ko:
+drivers/media/common/tuners/tea5767.ko:
+net/netfilter/xt_NFQUEUE.ko: net/netfilter/x_tables.ko
+net/ipv4/netfilter/ipt_ah.ko: net/netfilter/x_tables.ko
+drivers/staging/lirc/lirc_sir.ko:
+drivers/input/touchscreen/inexio.ko:
+net/ipv4/netfilter/iptable_raw.ko: net/ipv4/netfilter/ip_tables.ko net/netfilter/x_tables.ko
+net/l2tp/l2tp_ip.ko: net/l2tp/l2tp_core.ko
+drivers/input/joystick/warrior.ko:
+sound/core/oss/snd-pcm-oss.ko: sound/core/oss/snd-mixer-oss.ko
+sound/usb/caiaq/snd-usb-caiaq.ko:
+drivers/media/video/sh_mobile_csi2.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+drivers/usb/misc/usblcd.ko:
+net/caif/caif.ko: lib/crc-ccitt.ko
+drivers/usb/serial/siemens_mpi.ko: drivers/usb/serial/usbserial.ko
+drivers/input/joystick/turbografx.ko: drivers/parport/parport.ko
+net/ipv6/ipcomp6.ko: net/ipv6/xfrm6_tunnel.ko net/ipv6/tunnel6.ko
+sound/soc/codecs/snd-soc-wm8971.ko:
+net/sched/act_simple.ko:
+net/bridge/netfilter/ebt_arpreply.ko: net/netfilter/x_tables.ko
+net/core/pktgen.ko:
+fs/lockd/lockd.ko: net/sunrpc/sunrpc.ko
+sound/soc/codecs/snd-soc-wm8711.ko:
+net/ipv4/tcp_htcp.ko:
+drivers/input/joystick/cobra.ko: drivers/input/gameport/gameport.ko
+drivers/media/common/tuners/mt2131.ko:
+drivers/net/pptp.ko: drivers/net/pppox.ko drivers/net/ppp_generic.ko drivers/net/slhc.ko
+net/ipv6/netfilter/ip6table_raw.ko: net/ipv6/netfilter/ip6_tables.ko net/netfilter/x_tables.ko
+sound/soc/codecs/snd-soc-sgtl5000.ko:
+fs/ncpfs/ncpfs.ko:
+drivers/media/rc/redrat3.ko:
+drivers/input/joystick/analog.ko: drivers/input/gameport/gameport.ko
+drivers/video/cfbimgblt.ko:
+net/bridge/netfilter/ebt_mark.ko: net/netfilter/x_tables.ko
+sound/pci/ac97/snd-ac97-codec.ko: sound/ac97_bus.ko
+drivers/input/touchscreen/st1232.ko:
+net/netfilter/xt_CT.ko: net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+net/netfilter/xt_esp.ko: net/netfilter/x_tables.ko
+drivers/usb/serial/zio.ko: drivers/usb/serial/usbserial.ko
+drivers/media/dvb/dvb-core/dvb-core.ko:
+drivers/media/video/em28xx/em28xx-dvb.ko: drivers/media/dvb/frontends/cxd2820r.ko drivers/media/video/em28xx/em28xx.ko drivers/media/video/tveeprom.ko drivers/media/video/videobuf-vmalloc.ko drivers/media/dvb/dvb-core/dvb-core.ko drivers/media/video/videobuf-core.ko
+drivers/bluetooth/ath3k.ko:
+net/ipv6/netfilter/ip6_tables.ko: net/netfilter/x_tables.ko
+drivers/input/joystick/guillemot.ko: drivers/input/gameport/gameport.ko
+net/netfilter/xt_limit.ko: net/netfilter/x_tables.ko
+drivers/scsi/scsi_wait_scan.ko:
+net/netfilter/nf_conntrack_h323.ko: net/netfilter/nf_conntrack.ko
+fs/reiserfs/reiserfs.ko:
+drivers/media/video/sun4i_csi/device/hi704.ko:
+net/netfilter/nf_conntrack.ko:
+drivers/usb/serial/symbolserial.ko: drivers/usb/serial/usbserial.ko
+drivers/input/misc/gpio_output.ko:
+drivers/usb/misc/isight_firmware.ko:
+drivers/media/radio/dsbr100.ko:
+sound/soc/sun4i/i2s/sun4i-sndi2s.ko:
+net/bridge/netfilter/ebt_ip.ko: net/netfilter/x_tables.ko
+sound/soc/codecs/snd-soc-lm4857.ko:
+net/netfilter/xt_NFLOG.ko: net/netfilter/nfnetlink_log.ko net/netfilter/nfnetlink.ko net/netfilter/x_tables.ko
+drivers/net/usb/ipheth.ko:
+drivers/media/common/tuners/tda18271.ko:
+sound/soc/codecs/snd-soc-wm8900.ko:
+sound/core/seq/snd-seq-virmidi.ko: sound/core/seq/snd-seq-midi-event.ko sound/core/seq/snd-seq.ko sound/core/seq/snd-seq-device.ko
+sound/soc/sun4i/spdif/sun4i_spdif.ko:
+net/netfilter/xt_HL.ko: net/netfilter/x_tables.ko
+drivers/media/video/cx231xx/cx231xx.ko: drivers/media/video/videobuf-vmalloc.ko drivers/media/video/cx2341x.ko drivers/media/video/videobuf-core.ko
+fs/gfs2/gfs2.ko:
+drivers/media/video/soc_camera.ko: drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+fs/squashfs/squashfs.ko:
+drivers/input/touchscreen/goodix_touch.ko:
+net/netfilter/ipset/ip_set_hash_net.ko: net/netfilter/ipset/ip_set.ko net/netfilter/nfnetlink.ko
+drivers/media/common/tuners/tda9887.ko:
+net/ipv4/netfilter/arptable_filter.ko: net/ipv4/netfilter/arp_tables.ko net/netfilter/x_tables.ko
+drivers/input/joystick/grip_mp.ko: drivers/input/gameport/gameport.ko
+drivers/media/video/sun4i_csi/device/ov7670.ko:
+drivers/parport/parport_pc.ko: drivers/parport/parport.ko
+net/ipv6/xfrm6_tunnel.ko: net/ipv6/tunnel6.ko
+drivers/input/touchscreen/mtouch.ko:
+net/sched/sch_drr.ko:
+drivers/media/video/hdpvr/hdpvr.ko:
+net/sched/cls_basic.ko:
+sound/soc/codecs/snd-soc-wm8993.ko: sound/soc/codecs/snd-soc-wm-hubs.ko
+lib/crc-ccitt.ko:
+sound/soc/codecs/snd-soc-ad73311.ko:
+sound/soc/codecs/snd-soc-cs42l51.ko:
+drivers/media/video/videobuf2-core.ko:
+sound/soc/codecs/snd-soc-wm8804.ko:
+drivers/usb/serial/io_edgeport.ko: drivers/usb/serial/usbserial.ko
+net/sched/em_nbyte.ko:
+sound/soc/codecs/snd-soc-wm8961.ko:
+drivers/usb/serial/io_ti.ko: drivers/usb/serial/usbserial.ko
+sound/soc/codecs/snd-soc-wm8904.ko:
+drivers/video/cfbfillrect.ko:
+drivers/md/multipath.ko: drivers/md/md-mod.ko
+drivers/input/keyboard/sun4i-keypad.ko:
+drivers/input/joystick/twidjoy.ko:
+net/caif/chnl_net.ko: net/caif/caif.ko lib/crc-ccitt.ko
+fs/cramfs/cramfs.ko:
+drivers/media/video/sun4i_csi/device/hi253.ko:
+net/netfilter/ipset/ip_set_hash_ipportip.ko: net/netfilter/ipset/ip_set.ko net/netfilter/nfnetlink.ko
+net/bluetooth/rfcomm/rfcomm.ko:
+drivers/media/video/mt9m111.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+drivers/usb/serial/opticon.ko: drivers/usb/serial/usbserial.ko
+sound/core/snd-hrtimer.ko:
+drivers/media/video/usbvision/usbvision.ko:
+net/netfilter/xt_cluster.ko: net/netfilter/x_tables.ko
+drivers/media/radio/radio-tea5764.ko:
+fs/freevxfs/freevxfs.ko:
+drivers/input/touchscreen/synaptics_i2c_rmi.ko:
+net/netfilter/xt_IDLETIMER.ko: net/netfilter/x_tables.ko
+net/ipv4/netfilter/ipt_ECN.ko: net/netfilter/x_tables.ko
+drivers/md/dm-mirror.ko: drivers/md/dm-region-hash.ko drivers/md/dm-log.ko drivers/md/dm-mod.ko
+drivers/input/touchscreen/gunze.ko:
+drivers/mfd/mfd-core.ko:
+drivers/media/video/ov772x.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+drivers/usb/otg/nop-usb-xceiv.ko:
+drivers/usb/gadget/g_hid.ko:
+net/ipv4/tcp_cubic.ko:
+drivers/media/video/videobuf2-vmalloc.ko: drivers/media/video/videobuf2-memops.ko
+drivers/media/video/videobuf-dvb.ko: drivers/media/dvb/dvb-core/dvb-core.ko drivers/media/video/videobuf-core.ko
+drivers/media/video/cx231xx/cx231xx-alsa.ko: drivers/media/video/cx231xx/cx231xx.ko drivers/media/video/videobuf-vmalloc.ko drivers/media/video/cx2341x.ko drivers/media/video/videobuf-core.ko
+drivers/usb/misc/usbtest.ko:
+drivers/media/radio/radio-wl1273.ko:
+drivers/media/common/tuners/tda18212.ko:
+sound/soc/codecs/snd-soc-spdif.ko:
+sound/soc/codecs/snd-soc-max9850.ko:
+sound/soc/codecs/snd-soc-wl1273.ko:
+drivers/usb/class/usblp.ko:
+net/netfilter/nfnetlink_log.ko: net/netfilter/nfnetlink.ko
+sound/soc/codecs/snd-soc-ad193x.ko:
+drivers/media/common/tuners/tea5761.ko:
+drivers/usb/gadget/g_ncm.ko:
+net/l2tp/l2tp_ppp.ko: net/l2tp/l2tp_netlink.ko net/l2tp/l2tp_core.ko drivers/net/pppox.ko drivers/net/ppp_generic.ko drivers/net/slhc.ko
+drivers/net/usb/zaurus.ko: drivers/net/usb/cdc_ether.ko drivers/net/usb/usbnet.ko
+sound/soc/codecs/snd-soc-wm-hubs.ko:
+sound/soc/codecs/snd-soc-wm8510.ko:
+sound/soc/sun4i/i2s/sun4i-i2sdma.ko:
+net/ipv6/netfilter/nf_conntrack_ipv6.ko: net/ipv6/netfilter/nf_defrag_ipv6.ko net/netfilter/nf_conntrack.ko
+drivers/media/dvb/frontends/s5h1409.ko:
+net/netfilter/xt_helper.ko: net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+net/netfilter/xt_time.ko: net/netfilter/x_tables.ko
+drivers/usb/serial/qcserial.ko: drivers/usb/serial/usb_wwan.ko drivers/usb/serial/usbserial.ko
+drivers/media/dvb/frontends/au8522.ko:
+net/bluetooth/bnep/bnep.ko:
+drivers/usb/class/cdc-acm.ko:
+drivers/staging/quatech_usb2/quatech_usb2.ko: drivers/usb/serial/usbserial.ko
+net/sched/act_ipt.ko: net/netfilter/x_tables.ko
+net/bridge/netfilter/ebt_arp.ko: net/netfilter/x_tables.ko
+drivers/media/common/tuners/mt2060.ko:
+drivers/parport/parport.ko:
+drivers/staging/lirc/lirc_sasem.ko:
+drivers/bluetooth/bcm203x.ko:
+net/netfilter/ipvs/ip_vs_lblcr.ko: net/netfilter/ipvs/ip_vs.ko net/netfilter/nf_conntrack.ko
+drivers/net/plip.ko: drivers/parport/parport.ko
+sound/usb/misc/snd-ua101.ko: sound/usb/snd-usbmidi-lib.ko
+drivers/staging/lirc/lirc_ttusbir.ko:
+drivers/staging/wlan-ng/prism2_usb.ko:
+drivers/media/video/wm8775.ko:
+crypto/async_tx/async_pq.ko: lib/raid6/raid6_pq.ko crypto/async_tx/async_xor.ko crypto/xor.ko crypto/async_tx/async_tx.ko
+sound/soc/codecs/snd-soc-wm8903.ko:
+drivers/media/video/gspca/gspca_main.ko:
+drivers/usb/serial/cypress_m8.ko: drivers/usb/serial/usbserial.ko
+drivers/usb/serial/funsoft.ko: drivers/usb/serial/usbserial.ko
+sound/soc/codecs/snd-soc-cs4271.ko:
+sound/soc/codecs/snd-soc-wm8955.ko:
+net/sched/cls_u32.ko:
+drivers/media/video/mt9t031.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+sound/core/oss/snd-mixer-oss.ko:
+drivers/media/video/sun4i_csi/device/mt9m112.ko:
+drivers/net/irda/irtty-sir.ko: drivers/net/irda/sir-dev.ko net/irda/irda.ko lib/crc-ccitt.ko
+drivers/net/bsd_comp.ko: drivers/net/ppp_generic.ko drivers/net/slhc.ko
+drivers/input/joystick/tmdc.ko: drivers/input/gameport/gameport.ko
+drivers/media/video/cpia2/cpia2.ko:
+drivers/usb/gadget/g_printer.ko:
+net/netfilter/xt_comment.ko: net/netfilter/x_tables.ko
+drivers/video/backlight/backlight.ko:
+net/netfilter/ipvs/ip_vs_wlc.ko: net/netfilter/ipvs/ip_vs.ko net/netfilter/nf_conntrack.ko
+drivers/media/rc/rc-loopback.ko:
+sound/soc/codecs/snd-soc-dfbmcs320.ko:
+drivers/media/video/tvp5150.ko:
+sound/drivers/snd-serial-u16550.ko:
+drivers/input/touchscreen/bu21013_ts.ko:
+net/ipv4/netfilter/ipt_REDIRECT.ko: net/ipv4/netfilter/nf_nat.ko net/ipv4/netfilter/nf_conntrack_ipv4.ko net/ipv4/netfilter/nf_defrag_ipv4.ko net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+drivers/usb/serial/digi_acceleport.ko: drivers/usb/serial/usbserial.ko
+fs/nfs/nfs.ko: fs/lockd/lockd.ko net/sunrpc/sunrpc.ko
+sound/soc/codecs/snd-soc-wm8915.ko:
+drivers/media/video/videobuf-dma-contig.ko: drivers/media/video/videobuf-core.ko
+net/netfilter/xt_rateest.ko: net/netfilter/xt_RATEEST.ko net/netfilter/x_tables.ko
+drivers/input/misc/gpio_matrix.ko:
+net/ipv4/netfilter/ipt_REJECT.ko: net/netfilter/x_tables.ko
+net/sched/em_meta.ko:
+drivers/input/joystick/xpad.ko:
+drivers/media/video/em28xx/em28xx-alsa.ko: drivers/media/video/em28xx/em28xx.ko drivers/media/video/tveeprom.ko drivers/media/video/videobuf-vmalloc.ko drivers/media/video/videobuf-core.ko
+drivers/media/video/mt9v011.ko:
+drivers/net/tun.ko:
+drivers/usb/serial/empeg.ko: drivers/usb/serial/usbserial.ko
+sound/soc/codecs/snd-soc-l3.ko:
+net/ipv6/esp6.ko:
+sound/soc/codecs/snd-soc-pcm3008.ko:
+drivers/staging/lirc/lirc_igorplugusb.ko:
+drivers/media/video/sh_mobile_ceu_camera.ko: drivers/media/video/videobuf2-dma-contig.ko drivers/media/video/videobuf2-memops.ko drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+drivers/input/touchscreen/ad7879.ko:
+drivers/media/video/mt9t112.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+drivers/media/rc/streamzap.ko:
+net/bridge/netfilter/ebt_802_3.ko: net/netfilter/x_tables.ko
+drivers/net/pppox.ko: drivers/net/ppp_generic.ko drivers/net/slhc.ko
+drivers/md/md-mod.ko:
+drivers/input/touchscreen/zt8031.ko:
+drivers/md/dm-zero.ko: drivers/md/dm-mod.ko
+drivers/input/touchscreen/mk712.ko:
+sound/core/snd-hwdep.ko:
+drivers/usb/serial/oti6858.ko: drivers/usb/serial/usbserial.ko
+drivers/usb/serial/cp210x.ko: drivers/usb/serial/usbserial.ko
+drivers/usb/serial/garmin_gps.ko: drivers/usb/serial/usbserial.ko
+drivers/input/joystick/interact.ko: drivers/input/gameport/gameport.ko
+net/netfilter/xt_CHECKSUM.ko: net/netfilter/x_tables.ko
+drivers/media/video/zr364xx.ko: drivers/media/video/videobuf-vmalloc.ko drivers/media/video/videobuf-core.ko
+fs/nfsd/nfsd.ko: fs/lockd/lockd.ko net/sunrpc/sunrpc.ko fs/exportfs/exportfs.ko
+net/netfilter/xt_devgroup.ko: net/netfilter/x_tables.ko
+crypto/xor.ko:
+net/netfilter/ipset/ip_set_hash_ip.ko: net/netfilter/ipset/ip_set.ko net/netfilter/nfnetlink.ko
+net/bridge/netfilter/ebt_dnat.ko: net/netfilter/x_tables.ko
+drivers/media/video/sr030pc30.ko:
+net/netfilter/xt_SECMARK.ko: net/netfilter/x_tables.ko
+drivers/usb/serial/spcp8x5.ko: drivers/usb/serial/usbserial.ko
+net/ipv6/tunnel6.ko:
+drivers/bluetooth/btsdio.ko:
+drivers/media/radio/wl128x/fm_drv.ko: drivers/misc/ti-st/st_drv.ko
+net/sched/sch_red.ko:
+drivers/video/output.ko:
+net/netfilter/xt_string.ko: net/netfilter/x_tables.ko
+drivers/usb/serial/ark3116.ko: drivers/usb/serial/usbserial.ko
+net/ipv6/ip6_tunnel.ko: net/ipv6/tunnel6.ko
+net/ipv6/netfilter/ip6t_mh.ko: net/netfilter/x_tables.ko
+crypto/async_tx/async_raid6_recov.ko: lib/raid6/raid6_pq.ko crypto/async_tx/async_tx.ko
+net/sched/cls_tcindex.ko:
+drivers/media/common/tuners/mt2266.ko:
+sound/soc/codecs/snd-soc-ak4535.ko:
+drivers/input/touchscreen/w90p910_ts.ko:
+drivers/staging/zram/zram.ko:
+net/netfilter/ipset/ip_set.ko: net/netfilter/nfnetlink.ko
+net/netfilter/xt_RATEEST.ko: net/netfilter/x_tables.ko
+sound/soc/codecs/snd-soc-wm2000.ko:
+drivers/media/video/soc_mediabus.ko:
+net/netfilter/xt_recent.ko: net/netfilter/x_tables.ko
+drivers/media/video/s2255drv.ko: drivers/media/video/videobuf-vmalloc.ko drivers/media/video/videobuf-core.ko
+net/netfilter/xt_addrtype.ko: net/netfilter/x_tables.ko
+net/netfilter/xt_connbytes.ko: net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+drivers/media/video/ov9740.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+drivers/usb/serial/whiteheat.ko: drivers/usb/serial/usbserial.ko
+drivers/video/backlight/generic_bl.ko: drivers/video/backlight/backlight.ko
+drivers/media/video/sun4i_csi/device/mt9m113.ko:
+drivers/media/video/rj54n1cb0c.ko: drivers/media/video/soc_camera.ko drivers/media/video/soc_mediabus.ko drivers/media/video/videobuf2-core.ko drivers/media/video/videobuf-core.ko
+sound/core/seq/snd-seq-midi.ko: sound/core/seq/snd-seq-midi-event.ko sound/core/seq/snd-seq.ko sound/core/seq/snd-seq-device.ko
+sound/soc/codecs/snd-soc-wm8727.ko:
+net/ipv6/netfilter/ip6t_rt.ko: net/ipv6/netfilter/ip6_tables.ko net/netfilter/x_tables.ko
+net/ipv4/netfilter/ipt_ULOG.ko: net/netfilter/x_tables.ko
+fs/minix/minix.ko:
+sound/soc/codecs/snd-soc-alc5623.ko:
+sound/soc/sun4i/spdif/sndspdif.ko:
+net/netfilter/xt_NOTRACK.ko: net/netfilter/x_tables.ko net/netfilter/nf_conntrack.ko
+net/netfilter/xt_osf.ko: net/netfilter/nfnetlink.ko net/netfilter/x_tables.ko
+drivers/usb/serial/kl5kusb105.ko: drivers/usb/serial/usbserial.ko
+net/sched/sch_tbf.ko:
+drivers/usb/misc/rio500.ko:
+net/netfilter/xt_iprange.ko: net/netfilter/x_tables.ko
+net/netfilter/ipvs/ip_vs_sed.ko: net/netfilter/ipvs/ip_vs.ko net/netfilter/nf_conntrack.ko
+drivers/net/usb/qf9700.ko: drivers/net/usb/usbnet.ko
+net/wanrouter/wanrouter.ko:
+net/netfilter/xt_TCPMSS.ko: net/netfilter/x_tables.ko
+net/wireless/lib80211.ko:
+sound/soc/codecs/snd-soc-ssm2602.ko:
+net/sched/act_nat.ko:
+net/bridge/netfilter/ebt_redirect.ko: net/netfilter/x_tables.ko
+sound/usb/snd-usbmidi-lib.ko:
+drivers/uio/uio_pdrv.ko: drivers/uio/uio.ko
+drivers/usb/serial/visor.ko: drivers/usb/serial/usbserial.ko
+drivers/usb/misc/appledisplay.ko: drivers/video/backlight/backlight.ko
+drivers/media/video/noon010pc30.ko:
+drivers/net/pppolac.ko: drivers/net/pppox.ko drivers/net/ppp_generic.ko drivers/net/slhc.ko
