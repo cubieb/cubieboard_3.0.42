@@ -1,6 +1,5 @@
 # !/bin/sh
 
-
 # # cp sun4i_defconfig to .config
 make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- sun4i_defconfig
 # # build kernel and driver modules
