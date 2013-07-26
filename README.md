@@ -23,11 +23,11 @@ then you can copy the uImage and lib dir to your cubieboard system,
 then folow below steps:
 
 
-# mount /dev/mmcblk0p1 /mnt
-# cp ./uImage /mnt/
-# umount /mnt
-# cp -a ./lib /
-# chown root:root -R /lib/modules
+## mount /dev/mmcblk0p1 /mnt
+## cp ./uImage /mnt/
+## umount /mnt
+## cp -a ./lib /
+## chown root:root -R /lib/modules
 
 
 Enjoy your new cubieboard systems!
